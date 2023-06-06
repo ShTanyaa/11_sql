@@ -1,0 +1,11 @@
+C:\Users\st325l01\Desktop\шумкова_ПР21\bin\Debug\шумкова_ПР21.exe.config
+C:\Users\st325l01\Desktop\шумкова_ПР21\bin\Debug\шумкова_ПР21.exe
+C:\Users\st325l01\Desktop\шумкова_ПР21\bin\Debug\шумкова_ПР21.pdb
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.csproj.AssemblyReference.cache
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.csproj.SuggestedBindingRedirects.cache
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.Form1.resources
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.Properties.Resources.resources
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.csproj.GenerateResource.cache
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.csproj.CoreCompileInputs.cache
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.exe
+C:\Users\st325l01\Desktop\шумкова_ПР21\obj\Debug\шумкова_ПР21.pdb
